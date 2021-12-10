@@ -1,5 +1,5 @@
 # Task Tracker
-Task Tracker application build with Angular
+✏️ Task Tracker application build with Angular
 
 ## 📷 Interface
 
